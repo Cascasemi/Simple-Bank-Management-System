@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1689908508 source:d:\c++ projects\hms\main.cpp
+	<iostream>
+	<string>
+	<vector>
+	<cstdlib>
+	<ctime>
+
